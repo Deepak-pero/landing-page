@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+     background: url(../form1.jpg)no-repeat center center/cover;
+     height: 100vh;
+}
+
+img{
+    border: 3px solid #0f0f0f;
+   height: 67px;
+   width: 65px;
+   margin: 18px 34px;
+   border-radius: 45px;
+}
+
+h2{
+   color: white;
+   font-size: 11px;
+   margin: -22px 26px;
+}
+ #container{
+    color: white;
+    position: absolute;
+    top: 24%;
+    left: 42%;
+    border: 2px solid #d7baba;
+    width: 678px;
+    border-radius: 66px;
+ }
+ 
+ 
+ h1{
+    /* color:blue ; */
+    font-size: 45px;
+    border-bottom: 7px solid #24d6e9;
+    padding: 11px 1px;
+    margin: 32px 34px;
+    color: #ef1e1e;
+    border-radius: 14px;
+ }
+
+ .box{
+    width: 100%;
+ }
+
+ .box input{
+    width: 60%;
+    border: none;
+    outline: none;
+    margin:  18px 38px;
+    padding: 11px 8px;
+    font-size: 23px;
+    background: none;
+    border-bottom: 4px solid #7272ff;
+    color: white;
+    border-radius: 10px;
+ }
+
+ .box i{
+   margin: 0px 3px 6px 38px;
+    font-size: 23px;
+ }
+
+ .btn{
+    font-size: 22px;
+    margin: 20px 241px;
+    cursor: pointer;
+    outline: none;
+    width: 147px;
+    height: 45px;
+    padding: 9px 12px;
+    border-radius: 14px;
+    border: 2px solid blue;
+    background: #bbb1f2;
+ }
+
+/* howring css in all */
+
+.box input:hover{
+   border-bottom: 4px solid #1ecab4;
+   font-size: 24px;
+}
+
+.box i:hover{
+    color:#1ecab4;
+    font-size: 30px;
+ }
+
+ .btn:hover{
+   color: white;
+   background: none;
+   font-size: 28px;
+   font-weight: bold;
+   border: none;
+   border-bottom: 3px solid #9bff00
+ }
+
+ img:hover{
+   /* border: 3px solid #f4f2f2;
+  height: 71px;
+  width: 71px;
+  margin: 20px 22px;
+  border-radius: 45px; */
+   border: 2px solid #ffffff;
+
+ }
